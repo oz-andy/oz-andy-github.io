@@ -15,7 +15,10 @@ layout: default
       <h2>{{ site.test-2 }}</h2>
       <h2>{{ site.test-2 }}</h2>
       <h2>{{ site.data.samplelist.docs_list_title }}</h2>
-      
+      <p><b>Feedback</b></p>
+      <p>{{site.data.samplelist.feedback}}</p>
+      <p><b>Block</b></p>
+      <p>{{site.data.samplelist.block}}</p>
       <ul>
         {% for item in site.data.samplelist.docs2 %}
           {% if item.version == 1 %}
