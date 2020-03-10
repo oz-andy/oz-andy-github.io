@@ -19,6 +19,12 @@ layout: default
             <li><a href="{{ item.url }}">{{ item.title }}</a></li>
          {% endfor %}
       </ul>
+      
+      <ul>
+        {% for item in site.data.samplelist.bikes %}
+        <li>{{item.title}}</li>
+        {% endfor %}
+     </ul>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
