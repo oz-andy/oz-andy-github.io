@@ -89,6 +89,21 @@ test: test11111
 
 test-2: test2222
 
+docs2_list_title: ACME Documentation
+docs2:
+
+- title: Introduction
+  url: introduction.html
+  version: 1
+
+- title: Configuration
+  url: configuration.html
+  version: 1
+
+- title: Deployment
+  url: deployment.html
+  version: 2
+
 bikes:
   - title: mountain bikes
   - title: road bikes
