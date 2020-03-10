@@ -87,13 +87,4 @@ exclude:
 #test
 test: test11111
   
-#Scenario 1: Basic List
-docs_list_title: ACME Documentation
-docs:
-  - title: Introduction
-    url: introduction.html
-  - title: Configuration
-    url: configuration.html
-  - title: Deployment
-    url: deployment.html
 
