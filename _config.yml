@@ -6,7 +6,7 @@
 name: 這是標題
 
 # Short bio or description (displayed in the header)
-description: 這是標題的詳細說明
+description: 這是圖下方標題
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
