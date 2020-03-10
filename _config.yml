@@ -88,5 +88,10 @@ exclude:
 test: test11111
 
 test-2: test2222
+
+bikes:
+  - title: mountain bikes
+  - title: road bikes
+  - title: hybrid bikes
   
 
